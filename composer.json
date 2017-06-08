@@ -1,10 +1,10 @@
 {
-    "name": "your-name-here/Algolia",
+    "name": "be-mohand/cakephp-algolia",
     "description": "Algolia plugin for CakePHP",
     "type": "cakephp-plugin",
     "require": {
         "php": ">=5.5.9",
-        "cakephp/cakephp": ">=3.3.2 <4.0.0"
+        "cakephp/cakephp": ">=3.3.2"
     },
     "require-dev": {
         "phpunit/phpunit": "*"
