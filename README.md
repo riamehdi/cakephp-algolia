@@ -69,6 +69,8 @@ Start to load the needed js and css files in your template:
 
 You need a dummy action with a template where Algolia files are loaded. You can use an example of a working template in Algolia/src/Template/example.ctp.
 
+## Auto-Update entities when modified/deleted
+
 
 ## Known issues
 
